@@ -1,0 +1,1 @@
+1. llm obsidian wiki [https://github.com/NicholasSpisak/second-brain](https://github.com/songzhuozhu/obsidian-llm-wiki)

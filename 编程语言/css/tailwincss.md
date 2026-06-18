@@ -1,0 +1,1 @@
+[prettier-plugin-tailwindcss](https://blog.csdn.net/gitblog_00716/article/details/155403132) 
